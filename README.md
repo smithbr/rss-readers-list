@@ -1,6 +1,6 @@
 # rss-readers-list
 
-I wanted a place to track the ever-growing list of Reader replacement apps that have been popping up in the months prior to July 1. Please contribute if there is anything missing!
+This is a place to track the ever-growing list of Reader replacement apps that have been popping up in the months prior to July 1. If your preferred reader is missing, please consider contributing!
 
 + Free
     + [AOL Reader](http://reader.aol.com)

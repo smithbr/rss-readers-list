@@ -7,10 +7,14 @@ This is a place to track the ever-growing list of Reader replacement apps that h
     + [CommaFeed](https://www.commafeed.com)
     + [Digg Reader](http://digg.com/reader)
     + [Feedly](http://cloud.feedly.com)
+    + [gReader](http://www.greader.co)
+    + [Newsify](http://newsify.co)
+    + [NextGen Reader](http://nextmatters.com)
     + [The Old Reader](http://theoldreader.com)
     + [Pulse](https://www.pulse.me)
     + [Readable.cc](http://readable.cc)
 
 + Paid/Donation
-    + [Lector](http://bealector.com) - $3/mo
+    + [Lector](http://bealector.com) - $3/mo    
+    + [Reeder](http://reederapp.com) - $2.99
     + [Yoleo Reader](https://yoleoreader.com) - $9/yr donation

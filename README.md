@@ -15,6 +15,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
     + [Readable.cc](http://readable.cc)
 
 + Paid/Donation
+    + [Feedbin](https://feedbin.me) - $2/mo
     + [Lector](http://bealector.com) - $3/mo    
     + [Reeder](http://reederapp.com) - $2.99
     + [Yoleo Reader](https://yoleoreader.com) - $9/yr donation

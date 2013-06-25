@@ -18,6 +18,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
     + [Feedly](http://cloud.feedly.com)
     + [Feedspot](http://www.feedspot.com)
     + [Flipboard](http://flipboard.com)
+    + [FlowReader](http://flowreader.com)
     + [Frontpage](http://www.frontpageapp.com)
     + [gReader](http://www.greader.co)
     + [IFTTT](https://ifttt.com)

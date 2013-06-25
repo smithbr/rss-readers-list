@@ -13,9 +13,11 @@ This is a place to track the ever-growing list of Reader replacement apps that h
     + [The Old Reader](http://theoldreader.com)
     + [Pulse](https://www.pulse.me)
     + [Readable.cc](http://readable.cc)
+    + [Slowfeeds](http://zoziapps.ch/slowfeeds)
 
 + Paid/Donation
+    + [Favs](http://www.favsapp.com) - $9.99 (Mac), $2.99 (iPhone)
     + [Feedbin](https://feedbin.me) - $2/mo
     + [Lector](http://bealector.com) - $3/mo    
-    + [Reeder](http://reederapp.com) - $2.99
+    + [Reeder](http://reederapp.com) - $2.99 (iPhone), Free (Mac), Free (iPad)
     + [Yoleo Reader](https://yoleoreader.com) - $9/yr donation

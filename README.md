@@ -17,19 +17,19 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Bookmarkchamp](http://bookmarkchamp.com) | Free | x | | | | |
 | [CommaFeed](https://www.commafeed.com) | Free | x | | | | |
 | [Digg Reader](http://digg.com/reader) | Free | x | | | | |
-| [dotdotdot](https://www.dotdotdot.me) | Free | x | | | | 
-| [Feedbin Reader BETA](https://play.google.com/store/apps/details?id=com.neogb.feedbinreader) | Free | x | | | | 
-| [Feedly](http://cloud.feedly.com) | Free | x | | | | 
+| [dotdotdot](https://www.dotdotdot.me) | Free | | | | | x | x 
+| [Feedbin Reader BETA](https://play.google.com/store/apps/details?id=com.neogb.feedbinreader) | Free | | | | x | 
+| [Feedly](http://cloud.feedly.com) | Free | x | | | | x | x
 | [Feedspot](http://www.feedspot.com) | Free | x | | | | 
-| [Flipboard](http://flipboard.com) | Free | x | | | | 
+| [Flipboard](http://flipboard.com) | Free | | | | x | x | x
 | [FlowReader](http://flowreader.com) | Free | x | | | | 
-| [Frontpage](http://www.frontpageapp.com) | Free | x | | | | 
-| [gReader](http://www.greader.co) | Free | x | | | |
+| [Frontpage](http://www.frontpageapp.com) | Free | | | | x | 
+| [gReader](http://www.greader.co) | Free | | | | x |
 | [Gwene (nntp)](http://gwene.org/) | Free | x | | | |
 | [Hive](http://hivereader.com) | Free | x | | | | |
 | [InoReader](http://www.inoreader.com/) | Free | x | | | |
 | [IFTTT](https://ifttt.com) | Free | x | | | | 
-| [Liferea](http://lzone.de/liferea) | Free | x | | | | 
+| [Liferea](http://lzone.de/liferea) | Free | | | | | 
 | [MochaRoll](http://mocharoll.com) | Free | x | | | | 
 | [msgboy](http://www.msgboy.com) | Free | x | | | | 
 | [NetNewsWire](http://netnewswireapp.com) | Free | x | | | | 
@@ -79,4 +79,4 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | ------------- | :-------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:|
 | [Grr](https://github.com/melllvar/grr) | Free | x | | | | |
 | [tt-rss](http://tt-rss.org/redmine/projects/tt-rss/wiki) | Free | x | | | | |
-
+| [Liferea](http://lzone.de/liferea) | Free | x | | | | |

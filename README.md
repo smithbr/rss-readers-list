@@ -6,16 +6,16 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 
 | Name | Price | Web | Mac | PC | Android | iPhone | iPad
 | ------------- | :-------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:|
-| [1kpl.us](https://1kpl.us) | Free | x | | | |
-| [AOL Reader](http://reader.aol.com) | Free | x | | | | 
-| [Android Rivers](http://rivers.silverkeytech.com) | Free | x | | | | 
-| [Backstitch](http://backstit.ch) | Free | x | | | | 
-| [BazQux Reader](https://bazqux.com) | Free | x | | | | 
-| [Bloglines](http://www.bloglines.com) | Free | x | | | | 
-| [Bloglovin'](http://www.bloglovin.com) | Free | x | | | | 
-| [Bookmarkchamp](http://bookmarkchamp.com) | Free | x | | | | 
-| [CommaFeed](https://www.commafeed.com) | Free | x | | | | 
-| [Digg Reader](http://digg.com/reader) | Free | x | | | | 
+| [1kpl.us](https://1kpl.us) | Free | x | | | | |
+| [AOL Reader](http://reader.aol.com) | Free | x | | | | x | x
+| [Android Rivers](http://rivers.silverkeytech.com) | Free | | | | x | |
+| [Backstitch](http://backstit.ch) | Free | x | | | | |
+| [BazQux Reader](https://bazqux.com) | Free | x | | | | |
+| [Bloglines](http://www.bloglines.com) | Free | x | | | | |
+| [Bloglovin'](http://www.bloglovin.com) | Free | x | | | | |
+| [Bookmarkchamp](http://bookmarkchamp.com) | Free | x | | | | |
+| [CommaFeed](https://www.commafeed.com) | Free | x | | | | |
+| [Digg Reader](http://digg.com/reader) | Free | x | | | | |
 | [dotdotdot](https://www.dotdotdot.me) | Free | x | | | | 
 | [Feedbin Reader BETA](https://play.google.com/store/apps/details?id=com.neogb.feedbinreader) | Free | x | | | | 
 | [Feedly](http://cloud.feedly.com) | Free | x | | | | 

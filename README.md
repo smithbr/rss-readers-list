@@ -52,7 +52,6 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [SkimFeed](http://skimfeed.com) | Free | x | | | | 
 | [Slowfeeds](http://zoziapps.ch/slowfeeds) | Free | x | | | | 
 | [Tafiti](http://www.tafitiapp.com/mx) | Free | x | | | | 
-| [Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki) | Free | x | | | | 
 | [Viafeeds](http://viafeeds.com) | Free | x | | | | 
 | [Zite](http://www.zite.com) | Free | x | | | | 
 

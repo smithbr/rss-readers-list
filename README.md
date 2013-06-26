@@ -2,63 +2,69 @@
 
 This is a place to track the ever-growing list of Reader replacement apps that have been popping up in the months prior to July 1. If your preferred reader is missing, please consider contributing!
 
-+ Free
-    + [1kpl.us](https://1kpl.us)
-    + [AOL Reader](http://reader.aol.com)
-    + [Android Rivers](http://rivers.silverkeytech.com)
-    + [Backstitch](http://backstit.ch)
-    + [BazQux Reader](https://bazqux.com)
-    + [Bloglines](http://www.bloglines.com)
-    + [Bloglovin'](http://www.bloglovin.com)
-    + [Bookmarkchamp](http://bookmarkchamp.com)
-    + [CommaFeed](https://www.commafeed.com)
-    + [Digg Reader](http://digg.com/reader)
-    + [dotdotdot](https://www.dotdotdot.me)
-    + [Feedbin Reader BETA](https://play.google.com/store/apps/details?id=com.neogb.feedbinreader)
-    + [Feedly](http://cloud.feedly.com)
-    + [Feedspot](http://www.feedspot.com)
-    + [Flipboard](http://flipboard.com)
-    + [FlowReader](http://flowreader.com)
-    + [Frontpage](http://www.frontpageapp.com)
-    + [gReader](http://www.greader.co)
-    + [IFTTT](https://ifttt.com)
-    + [Liferea](http://lzone.de/liferea)
-    + [MochaRoll](http://mocharoll.com)
-    + [msgboy](http://www.msgboy.com)
-    + [NetNewsWire](http://netnewswireapp.com)
-    + [Netvibes](http://www.netvibes.com)
-    + [Newsbeuter](http://www.newsbeuter.org)
-    + [NewsBlur](https://www.newsblur.com)
-    + [Newsify](http://newsify.co)
-    + [NewsMaven](http://beta.newsmaven.co)
-    + [NextGen Reader](http://nextmatters.com)
-    + [Nuesbyte](http://nuesbyte.com)
-    + [The Old Reader](http://theoldreader.com)
-    + [Pheedr](http://pheedr.net)
-    + [Prismatic](http://getprismatic.com)
-    + [Protopage](http://www.protopage.com)
-    + [Pulse](https://www.pulse.me)
-    + [Readable.cc](http://readable.cc)
-    + [rss2email](http://www.allthingsrss.com/rss2email)
-    + [RSSOwl](http://www.rssowl.org)
-    + [Selfoss](http://selfoss.aditu.de)
-    + [Skim.me](http://skim.me)
-    + [SkimFeed](http://skimfeed.com)
-    + [Slowfeeds](http://zoziapps.ch/slowfeeds)
-    + [Tafiti](http://www.tafitiapp.com/mx)
-    + [Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
-    + [Viafeeds](http://viafeeds.com)
-    + [Zite](http://www.zite.com)
+## Free
 
-+ Paid/Donation
-    + [Bulletin for Feedbin](https://itunes.apple.com/us/app/bulletin-for-feedbin/id328547010) - $0.99 (iPhone)
-    + [Deer Reader](https://play.google.com/store/apps/details?id=com.reindeercrafts.deerreader) - $1.29 (Android)
-    + [Favs](http://www.favsapp.com) - $9.99 (Mac), $2.99 (iPhone)
-    + [Feedbin](https://feedbin.me) - $2/mo
-    + [Fever](http://www.feedafever.com) - $30
-    + [Lector](http://bealector.com) - $3/mo
-    + [Press](http://twentyfivesquares.com/press) - $2.99 (Android)
-    + [Readlines for Feedbin](https://itunes.apple.com/us/app/readlines-for-feedbin/id416953125) - $0.99 (iPhone)
-    + [Reeder](http://reederapp.com) - $2.99 (iPhone), Free (Mac), Free (iPad)
-    + [Sunstroke](https://goneeast.com/sunstroke) - $4.99 (iPhone)
-    + [Yoleo Reader](https://yoleoreader.com) - $9/yr donation
+| Name          | Price         | Web   | Mac   | iPhone | PC   | Android
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:|
+| [1kpl.us](https://1kpl.us) | Free | x | | | |
+| [AOL Reader](http://reader.aol.com) | Free | x | | | | 
+| [Android Rivers](http://rivers.silverkeytech.com) | Free | x | | | | 
+| [Backstitch](http://backstit.ch) | Free | x | | | | 
+| [BazQux Reader](https://bazqux.com) | Free | x | | | | 
+| [Bloglines](http://www.bloglines.com) | Free | x | | | | 
+| [Bloglovin'](http://www.bloglovin.com) | Free | x | | | | 
+| [Bookmarkchamp](http://bookmarkchamp.com) | Free | x | | | | 
+| [CommaFeed](https://www.commafeed.com) | Free | x | | | | 
+| [Digg Reader](http://digg.com/reader) | Free | x | | | | 
+| [dotdotdot](https://www.dotdotdot.me) | Free | x | | | | 
+| [Feedbin Reader BETA](https://play.google.com/store/apps/details?id=com.neogb.feedbinreader) | Free | x | | | | 
+| [Feedly](http://cloud.feedly.com) | Free | x | | | | 
+| [Feedspot](http://www.feedspot.com) | Free | x | | | | 
+| [Flipboard](http://flipboard.com) | Free | x | | | | 
+| [FlowReader](http://flowreader.com) | Free | x | | | | 
+| [Frontpage](http://www.frontpageapp.com) | Free | x | | | | 
+| [gReader](http://www.greader.co) | Free | x | | | | 
+| [IFTTT](https://ifttt.com) | Free | x | | | | 
+| [Liferea](http://lzone.de/liferea) | Free | x | | | | 
+| [MochaRoll](http://mocharoll.com) | Free | x | | | | 
+| [msgboy](http://www.msgboy.com) | Free | x | | | | 
+| [NetNewsWire](http://netnewswireapp.com) | Free | x | | | | 
+| [Netvibes](http://www.netvibes.com) | Free | x | | | | 
+| [Newsbeuter](http://www.newsbeuter.org) | Free | x | | | | 
+| [NewsBlur](https://www.newsblur.com) | Free | x | | | | 
+| [Newsify](http://newsify.co) | Free | x | | | | 
+| [NewsMaven](http://beta.newsmaven.co) | Free | x | | | | 
+| [NextGen Reader](http://nextmatters.com) | Free | x | | | | 
+| [Nuesbyte](http://nuesbyte.com) | Free | x | | | | 
+| [The Old Reader](http://theoldreader.com) | Free | x | | | | 
+| [Pheedr](http://pheedr.net) | Free | x | | | | 
+| [Prismatic](http://getprismatic.com) | Free | x | | | | 
+| [Protopage](http://www.protopage.com) | Free | x | | | | 
+| [Pulse](https://www.pulse.me) | Free | x | | | | 
+| [Readable.cc](http://readable.cc) | Free | x | | | | 
+| [rss2email](http://www.allthingsrss.com/rss2email) | Free | x | | | | 
+| [RSSOwl](http://www.rssowl.org) | Free | x | | | | 
+| [Selfoss](http://selfoss.aditu.de) | Free | x | | | | 
+| [Skim.me](http://skim.me) | Free | x | | | | 
+| [SkimFeed](http://skimfeed.com) | Free | x | | | | 
+| [Slowfeeds](http://zoziapps.ch/slowfeeds) | Free | x | | | | 
+| [Tafiti](http://www.tafitiapp.com/mx) | Free | x | | | | 
+| [Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki) | Free | x | | | | 
+| [Viafeeds](http://viafeeds.com) | Free | x | | | | 
+| [Zite](http://www.zite.com) | Free | x | | | | 
+
+## Paid/Donation
+
+| Name          | Price         | Web   | Mac   | iPhone | PC   | Android
+| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:|
+| [Bulletin for Feedbin](https://itunes.apple.com/us/app/bulletin-for-feedbin/id328547010) | $0.99 (iPhone) | x | | x | |
+| [Deer Reader](https://play.google.com/store/apps/details?id=com.reindeercrafts.deerreader) | $1.29 (Android) | x | | | | x
+| [Favs](http://www.favsapp.com) | $9.99 (Mac), $2.99 (iPhone) | | x | x | |
+| [Feedbin](https://feedbin.me) | $2/mo | x | | | |
+| [Fever](http://www.feedafever.com) | $30 | x | | | |
+| [Lector](http://bealector.com) | $3/mo | x | | | |
+| [Press](http://twentyfivesquares.com/press) | $2.99 (Android) | x | | | | x
+| [Readlines for Feedbin](https://itunes.apple.com/us/app/readlines-for-feedbin/id416953125) | $0.99 (iPhone) | | | x | |
+| [Reeder](http://reederapp.com) | $2.99 (iPhone), Free (Mac), Free (iPad) | x | | x | |
+| [Sunstroke](https://goneeast.com/sunstroke) | $4.99 (iPhone) | | | x | |
+| [Yoleo Reader](https://yoleoreader.com) | $9/yr donation | x | | | |

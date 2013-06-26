@@ -7,6 +7,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | Name | Price | Web | Mac | PC | Android | iPhone | iPad
 | ------------- | :-------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:|
 | [1kpl.us](https://1kpl.us) | Free | x | | | | |
+| [Alt](http://www.altfeedreader.com) | Free | x | | | | |
 | [AOL Reader](http://reader.aol.com) | Free | x | | | | x | x
 | [Android Rivers](http://rivers.silverkeytech.com) | Free | | | | x | |
 | [Backstitch](http://backstit.ch) | Free | x | | | | |
@@ -71,3 +72,11 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Reeder](http://reederapp.com) | $2.99 (iPhone), Free (Mac), Free (iPad) | | x | | | x | x
 | [Sunstroke](https://goneeast.com/sunstroke) | $4.99 (iPhone) | | | | | x |
 | [Yoleo Reader](https://yoleoreader.com) | $9/yr donation | x | | | | |
+
+## Self Hosted
+
+| Name | Price | Linux | Mac | PC | Android | iPhone | iPad
+| ------------- | :-------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:|
+| [Grr](https://github.com/melllvar/grr) | Free | x | | | | |
+| [tt-rss](http://tt-rss.org/redmine/projects/tt-rss/wiki) | Free | x | | | | |
+

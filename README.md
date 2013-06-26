@@ -25,6 +25,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [FlowReader](http://flowreader.com) | Free | x | | | | 
 | [Frontpage](http://www.frontpageapp.com) | Free | x | | | | 
 | [gReader](http://www.greader.co) | Free | x | | | |
+| [Gwene (nntp)](http://gwene.org/) | Free | x | | | |
 | [Hive](http://hivereader.com) | Free | x | | | | |
 | [InoReader](http://www.inoreader.com/) | Free | x | | | |
 | [IFTTT](https://ifttt.com) | Free | x | | | | 

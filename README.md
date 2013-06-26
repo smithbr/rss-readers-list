@@ -4,8 +4,8 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 
 ## Free
 
-| Name          | Price         | Web   | Mac   | iPhone | PC   | Android
-| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:|
+| Name | Price | Web | Mac | PC | Android | iPhone | iPad
+| ------------- | :-------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:|
 | [1kpl.us](https://1kpl.us) | Free | x | | | |
 | [AOL Reader](http://reader.aol.com) | Free | x | | | | 
 | [Android Rivers](http://rivers.silverkeytech.com) | Free | x | | | | 
@@ -55,16 +55,16 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 
 ## Paid/Donation
 
-| Name          | Price         | Web   | Mac   | iPhone | PC   | Android
-| ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:|
-| [Bulletin for Feedbin](https://itunes.apple.com/us/app/bulletin-for-feedbin/id328547010) | $0.99 (iPhone) | x | | x | |
-| [Deer Reader](https://play.google.com/store/apps/details?id=com.reindeercrafts.deerreader) | $1.29 (Android) | x | | | | x
-| [Favs](http://www.favsapp.com) | $9.99 (Mac), $2.99 (iPhone) | | x | x | |
-| [Feedbin](https://feedbin.me) | $2/mo | x | | | |
-| [Fever](http://www.feedafever.com) | $30 | x | | | |
-| [Lector](http://bealector.com) | $3/mo | x | | | |
-| [Press](http://twentyfivesquares.com/press) | $2.99 (Android) | x | | | | x
-| [Readlines for Feedbin](https://itunes.apple.com/us/app/readlines-for-feedbin/id416953125) | $0.99 (iPhone) | | | x | |
-| [Reeder](http://reederapp.com) | $2.99 (iPhone), Free (Mac), Free (iPad) | x | | x | |
-| [Sunstroke](https://goneeast.com/sunstroke) | $4.99 (iPhone) | | | x | |
-| [Yoleo Reader](https://yoleoreader.com) | $9/yr donation | x | | | |
+| Name | Price | Web | Mac | PC | Android | iPhone | iPad
+| ------------- | :-------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:|
+| [Bulletin for Feedbin](https://itunes.apple.com/us/app/bulletin-for-feedbin/id328547010) | $0.99 (iPhone) | | | | | x |
+| [Deer Reader](https://play.google.com/store/apps/details?id=com.reindeercrafts.deerreader) | $1.29 (Android) | | | | x | |
+| [Favs](http://www.favsapp.com) | $9.99 (Mac), $2.99 (iPhone) | | x | | | x |
+| [Feedbin](https://feedbin.me) | $2/mo | x | | | | |
+| [Fever](http://www.feedafever.com) | $30 | x | | | | |
+| [Lector](http://bealector.com) | $3/mo | x | | | | |
+| [Press](http://twentyfivesquares.com/press) | $2.99 (Android) | | | | x | |
+| [Readlines for Feedbin](https://itunes.apple.com/us/app/readlines-for-feedbin/id416953125) | $0.99 (iPhone) | x | | | | x |
+| [Reeder](http://reederapp.com) | $2.99 (iPhone), Free (Mac), Free (iPad) | | x | | | x | x
+| [Sunstroke](https://goneeast.com/sunstroke) | $4.99 (iPhone) | | | | | x |
+| [Yoleo Reader](https://yoleoreader.com) | $9/yr donation | x | | | | |

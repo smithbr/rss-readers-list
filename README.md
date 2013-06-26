@@ -4,8 +4,8 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 
 ## Free
 
-| Name | Price  | Web  | Mac   | PC   | Android   | iPhone   | iPad
-| ---- | :----: | :--: | :---: | :--: | :-------: | :------: | :----:|
+| Name | Price | Web | Mac | PC | Android | iPhone | iPad
+| ------------- | :-------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:|
 | [1kpl.us](https://1kpl.us) | Free | x | | | |
 | [AOL Reader](http://reader.aol.com) | Free | x | | | | 
 | [Android Rivers](http://rivers.silverkeytech.com) | Free | x | | | | 
@@ -23,7 +23,8 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Flipboard](http://flipboard.com) | Free | x | | | | 
 | [FlowReader](http://flowreader.com) | Free | x | | | | 
 | [Frontpage](http://www.frontpageapp.com) | Free | x | | | | 
-| [gReader](http://www.greader.co) | Free | x | | | | 
+| [gReader](http://www.greader.co) | Free | x | | | |
+| [InoReader](http://www.inoreader.com/) | Free | x | | | |
 | [IFTTT](https://ifttt.com) | Free | x | | | | 
 | [Liferea](http://lzone.de/liferea) | Free | x | | | | 
 | [MochaRoll](http://mocharoll.com) | Free | x | | | | 
@@ -55,14 +56,15 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 
 ## Paid/Donation
 
-| Name | Price  | Web  | Mac   | PC   | Android   | iPhone   | iPad
-| ---- | :----: | :--: | :---: | :--: | :-------: | :------: | :----:|
+| Name | Price | Web | Mac | PC | Android | iPhone | iPad
+| ------------- | :-------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:|
 | [Bulletin for Feedbin](https://itunes.apple.com/us/app/bulletin-for-feedbin/id328547010) | $0.99 (iPhone) | | | | | x |
 | [Deer Reader](https://play.google.com/store/apps/details?id=com.reindeercrafts.deerreader) | $1.29 (Android) | | | | x | |
 | [Favs](http://www.favsapp.com) | $9.99 (Mac), $2.99 (iPhone) | | x | | | x |
 | [Feedbin](https://feedbin.me) | $2/mo | x | | | | |
 | [Fever](http://www.feedafever.com) | $30 | x | | | | |
 | [Lector](http://bealector.com) | $3/mo | x | | | | |
+| [MXHub Reader](http://www.mxhub.com/reader) | $5.95/mo | x | | | | |
 | [Press](http://twentyfivesquares.com/press) | $2.99 (Android) | | | | x | |
 | [Readlines for Feedbin](https://itunes.apple.com/us/app/readlines-for-feedbin/id416953125) | $0.99 (iPhone) | x | | | | x |
 | [Reeder](http://reederapp.com) | $2.99 (iPhone), Free (Mac), Free (iPad) | | x | | | x | x

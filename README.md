@@ -20,12 +20,13 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [dotdotdot](https://www.dotdotdot.me) | Free                                                                 |   |   |   |   |   | x | x |
 | [Favs](http://www.favsapp.com) | $9.99 (Mac), $2.99 (iPhone)                                                 |   | x |   |   |   | x |   |
 | [Feedbin](https://feedbin.me) | $2/mo                                                                        | x |   |   |   | x |   |   |
-| [Feedly](http://cloud.feedly.com) | Free                                                                     | x |   |   |   |   | x | x |
+| [Feedly](http://cloud.feedly.com) | Free                                                                     | x |   |   |   | x | x | x |
 | [Feedspot](http://www.feedspot.com) | Free                                                                   | x |   |   |   |   |   |   |
 | [Fever](http://www.feedafever.com) | $30                                                                     | x |   |   |   |   |   |   |
 | [Flipboard](http://flipboard.com) | Free                                                                     |   |   |   |   | x | x | x |
 | [FlowReader](http://flowreader.com) | Free                                                                   | x |   |   |   |   |   |   |
 | [Frontpage](http://www.frontpageapp.com) | Free                                                              |   |   |   |   | x |   |   |
+| [g2reader](http://www.g2reader.com) | Free                                                                   | x |   |   |   |   |   |   |
 | [gReader](http://www.greader.co) | Free                                                                      |   |   |   |   | x |   |   |
 | [Grr](https://github.com/melllvar/grr) | Free                                                                |   |   |   | x |   |   |   |
 | [Gwene (nntp)](http://gwene.org/) | Free                                                                     | x |   |   |   |   |   |   |

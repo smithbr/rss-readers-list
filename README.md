@@ -56,6 +56,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Readable.cc](http://readable.cc) | Free                                                                     | x |   |   |   |   |   |   |
 | [Readlines for Feedbin](https://itunes.apple.com/us/app/readlines-for-feedbin/id416953125) | $0.99           | x |   |   |   |   | x | x |
 | [Reeder](http://reederapp.com) | Free/Mac, $2.99/iPhone, Free/iPad                                           |   | x |   |   |   | x | x |
+| [Rivulet](http://myrivulet.appspot.com) | Free                                                               | x |   |   |   |   |   |   |
 | [rss2email](http://www.allthingsrss.com/rss2email) | Free                                                    |   |   | x | x |   |   |   |
 | [RSSOwl](http://www.rssowl.org) | Free                                                                       |   | x | x | x |   |   |   |
 | [Selfoss](http://selfoss.aditu.de) | Free                                                                    | x |   |   |   |   |   |   |

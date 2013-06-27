@@ -2,7 +2,7 @@
 
 This is a place to track the ever-growing list of Reader replacement apps that have been popping up in the months prior to July 1. If your preferred reader is missing, please consider contributing!
 
-| Name    | Price   | Web     | Mac OS  | Windows | Linux   | Android | iPhone  | iPad    |
+| Name    | Price   | Web     | Mac     | Windows | Linux   | Android | iPhone  | iPad    |
 | ------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | [1kpl.us](https://1kpl.us) | Free                                                                            | x |   |   |   |   |   |   |
 | [Alt](http://www.altfeedreader.com) | Free                                                                   | x |   |   |   |   |   |   |

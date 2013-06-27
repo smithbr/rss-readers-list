@@ -27,6 +27,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [FlowReader](http://flowreader.com) | Free                                                                   | x |   |   |   |   |   |   |
 | [Frontpage](http://www.frontpageapp.com) | Free                                                              |   |   |   |   | x |   |   |
 | [g2reader](http://www.g2reader.com) | Free                                                                   | x |   |   |   |   |   |   |
+| [go read](http://www.goread.io) | Free                                                                       | x |   |   |   |   |   |   |
 | [gReader](http://www.greader.co) | Free                                                                      |   |   |   |   | x |   |   |
 | [Grr](https://github.com/melllvar/grr) | Free                                                                |   |   |   | x |   |   |   |
 | [Gwene (nntp)](http://gwene.org/) | Free                                                                     | x |   |   |   |   |   |   |

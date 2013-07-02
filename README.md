@@ -60,6 +60,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [rss2email](http://www.allthingsrss.com/rss2email) | Free                                                    |   |   | x | x |   |   |   |
 | [RSSOwl](http://www.rssowl.org) | Free                                                                       |   | x | x | x |   |   |   |
 | [Selfoss](http://selfoss.aditu.de) | Free                                                                    | x |   |   |   |   |   |   |
+| [Sismics](http://www.sismics.com/reader) | Free                                                              | x |   |   |   |   |   |   |
 | [Skim.me](http://skim.me) | Free                                                                             |   |   |   |   |   | x | x |
 | [SkimFeed](http://skimfeed.com) | Free                                                                       | x |   |   |   |   |   |   |
 | [Slowfeeds](http://zoziapps.ch/slowfeeds) | $2.99                                                            | x |   |   |   |   | x | x |

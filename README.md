@@ -13,6 +13,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Bloglines](http://www.bloglines.com) | Free                                                                 | x |   |   |   |   |   |   |
 | [Bloglovin'](http://www.bloglovin.com) | Free                                                                | x |   |   |   |   |   |   |
 | [Bookmarkchamp](http://bookmarkchamp.com) | Free                                                             | x |   |   |   |   |   |   |
+| [Bulletin.io](https://www.bulletin.io) | $2/mo                                                               | x |   |   |   |   |   |   |
 | [Bulletin for Feedbin](https://itunes.apple.com/us/app/bulletin-for-feedbin/id328547010) | $0.99             |   |   |   |   |   | x |   |
 | [CommaFeed](https://www.commafeed.com) | Free                                                                | x |   |   |   |   |   |   |
 | [Deer Reader](https://play.google.com/store/apps/details?id=com.reindeercrafts.deerreader) | $1.29           |   |   |   |   | x |   |   |

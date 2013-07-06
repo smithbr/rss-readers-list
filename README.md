@@ -35,6 +35,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Hive](http://hivereader.com) | Free                                                                         | x |   |   |   |   |   |   |
 | [InoReader](http://www.inoreader.com/) | Free                                                                | x |   |   |   |   |   |   |
 | [IFTTT](https://ifttt.com) | Free                                                                            | x |   |   |   |   |   |   |
+| [Labyl](http://labyl.com) | Free                                                                             | x |   |   |   |   |   |   |
 | [Lector](http://bealector.com) | $3/mo                                                                       | x |   |   |   |   |   |   |
 | [Liferea](http://lzone.de/liferea) | Free                                                                    |   |   |   | x |   |   |   |
 | [MochaRoll](http://mocharoll.com) | Free                                                                     | x |   |   |   |   |   |   |
@@ -67,7 +68,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Slowfeeds](http://zoziapps.ch/slowfeeds) | $2.99                                                            | x |   |   |   |   | x | x |
 | [Sunstroke](https://goneeast.com/sunstroke) | $4.99                                                          |   |   |   |   |   | x | x |
 | [Tafiti](http://www.tafitiapp.com/mx) | Free                                                                 |   |   | x |   |   |   |   |
-| [tt-rss](http://tt-rss.org/redmine/projects/tt-rss/wiki) | Free                                              |   |   |   | x |   |   |   |
+| [tt-rss](http://tt-rss.org/redmine/projects/tt-rss/wiki) | Free                                              |   |   |   | x | x |   |   |
 | [Viafeeds](http://viafeeds.com) | Free                                                                       | x |   |   |   |   |   |   |
 | [Yoleo Reader](https://yoleoreader.com) | Free ($9/yr donation)                                              | x |   |   |   |   |   |   |
 | [Zite](http://www.zite.com) | Free                                                                           |   |   |   |   | x | x | x |

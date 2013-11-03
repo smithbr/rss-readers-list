@@ -68,6 +68,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Skim.me](http://skim.me) | Free                                                                             |   |   |   |   |   | x | x |
 | [SkimFeed](http://skimfeed.com) | Free                                                                       | x |   |   |   |   |   |   |
 | [Slowfeeds](http://zoziapps.ch/slowfeeds) | $2.99                                                            | x |   |   |   |   | x | x |
+| [Sputnik](http://sputnik.szwacz.com/) | Free (donationware)                                                  |   | x | x |   |   |   |   |
 | [Sunstroke](https://goneeast.com/sunstroke) | $4.99                                                          |   |   |   |   |   | x | x |
 | [Tafiti](http://www.tafitiapp.com/mx) | Free                                                                 |   |   | x |   |   |   |   |
 | [tt-rss](http://tt-rss.org/redmine/projects/tt-rss/wiki) | Free                                              |   |   |   | x | x |   |   |

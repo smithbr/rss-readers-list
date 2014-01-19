@@ -46,7 +46,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [NetNewsWire](http://netnewswireapp.com) | Free                                                              |   | x |   |   |   |   |   |
 | [Netvibes](http://www.netvibes.com) | Free                                                                   | x |   |   |   |   |   |   |
 | [Newsbeuter](http://www.newsbeuter.org) | Free                                                               |   |   |   | x |   |   |   |
-| [NewsBlur](https://www.newsblur.com) | Free                                                                  | x |   |   |   |   |   |   |
+| [NewsBlur](https://www.newsblur.com) | Free                                                                  | x |   |   |   | [x](https://play.google.com/store/apps/details?id=com.newsblur&hl=en_GB) | [x](https://itunes.apple.com/gb/app/newsblur/id463981119?mt=8) | [x](https://itunes.apple.com/gb/app/newsblur/id463981119?mt=8) |
 | [Newsify](http://newsify.co) | Free                                                                          | x |   |   |   |   |   |   |
 | [NewsMaven](http://beta.newsmaven.co) | Free                                                                 | x |   |   |   |   |   |   |
 | [NextGen Reader](http://nextmatters.com) | Free                                                              | x |   | x |   |   |   |   |

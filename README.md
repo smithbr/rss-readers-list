@@ -75,3 +75,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Viafeeds](http://viafeeds.com) | Free                                                                       | x |   |   |   |   |   |   |
 | [Yoleo Reader](https://yoleoreader.com) | Free ($9/yr donation)                                              | x |   |   |   |   |   |   |
 | [Zite](http://www.zite.com) | Free                                                                           |   |   |   |   | x | x | x |
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/smithbr/rss-readers-list/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

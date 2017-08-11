@@ -1,0 +1,8 @@
+title: rss-readers-list
+description: A place to gather all of the Reader replacements that have been popping up.
+google_analytics: UA-40098391-7
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions

@@ -17,6 +17,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Digg Reader](http://digg.com/reader) | Free                                                                 | x |   |   |   |   |   |   |
 | [Feedbin](https://feedbin.me) | $2/mo                                                                        | x |   |   |   | x |   |   |
 | [Feedly](http://cloud.feedly.com) | Free                                                                     | x |   |   |   | x | x | x |
+| [FeedMail](https://feedmail.org) | $10/1000 updates                                                          | x |   |   |   | x | x | x |
 | [Feedspot](http://www.feedspot.com) | Free                                                                   | x |   |   |   |   |   |   |
 | [Fever](http://www.feedafever.com) | $30                                                                     | x |   |   |   |   |   |   |
 | [Flipboard](http://flipboard.com) | Free                                                                     |   |   |   |   | x | x | x |

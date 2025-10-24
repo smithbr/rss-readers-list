@@ -9,6 +9,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Amber RSS Reader](https://play.google.com/store/apps/details?id=com.reindeercrafts.deerreader) | $1.29      |   |   |   |   | x |   |   |
 | [Android Rivers](http://rivers.silverkeytech.com) | Free                                                     |   |   |   |   | x |   |   |
 | [AOL Reader](http://reader.aol.com) | Free                                                                   | x |   |   |   |   | x | x |
+| [Artemis](https://artemis.jamesg.blog) | Free                                                                | x |   |   |   |   |   |   |
 | [Backstitch](http://backstit.ch) | Free                                                                      | x |   |   |   |   |   |   |
 | [BazQux Reader](https://bazqux.com) | Free                                                                   | x |   |   |   |   |   |   |
 | [Bloglovin'](http://www.bloglovin.com) | Free                                                                | x |   |   |   |   |   |   |

@@ -38,6 +38,7 @@ This is a place to track the ever-growing list of Reader replacement apps that h
 | [Nuesbyte](http://nuesbyte.com) | Free                                                                       | x |   |   |   |   |   |   |
 | [The Old Reader](http://theoldreader.com) | Free                                                             | x |   |   |   |   |   |   |
 | [Press](http://twentyfivesquares.com/press) | $2.99/Android                                                  |   |   |   |   | x |   |   |
+| [PressPlayed](https://pressplayed.com/) | Free                                                               | x |   |   |   |   |   |   |
 | [Protopage](http://www.protopage.com) | Free                                                                 | x |   |   |   |   |   |   |
 | [Readable.cc](http://readable.cc) | Free                                                                     | x |   |   |   |   |   |   |
 | [Readlines for Feedbin](https://itunes.apple.com/us/app/readlines-for-feedbin/id416953125) | $0.99           | x |   |   |   |   | x | x |
